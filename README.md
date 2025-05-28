@@ -7,20 +7,13 @@ This repository documents the development of the Sahel Strategic Observatory, a 
 - **Integrate operational and open-source data** (e.g., ACLED, WorldPop, climate models) to provide contextual foresight.
 - **Visualize risks, gaps, and trends** to support strategic decision-making and resource prioritization.
 - **Foster inter-agency data collaboration** through a shared technical framework and coordinated platform.
----
+
 ## 🧩 Key Components
 
 The Sahel Strategic Observatory is designed as a modular platform, integrating three core components that work together to provide foresight, track operations, and support strategic decision-making.
 
-### 1. 🔍 Strategic Context & Forecasting Module  
-**Purpose**: To visualize and interpret regional trends using open-source and contextual data.  
-**Features**:
-- Integration of external datasets (ACLED, WorldPop, UNHCR, FEWSNET, climate models)
-- Scenario-based spatial forecasting and early warning insights
-- Thematic layers: conflict, displacement, food insecurity, climate variability
-
-### 2. 🗺️ Operational Mapping (5W) Module  
-**Purpose**: To provide real-time mapping of UN agency presence and activities across the Sahel.  
+### 1. 🗺️ Operational Mapping (5W) Module  
+**Purpose**: To provide timeseries mapping of UN agency presence and activities across the Sahel.  
 **Features**:
 - Tracks Who is doing What, Where, When, and for Whom (5W) under UNISS
 - Revives and upgrades the 2021 5W mapping exercise
@@ -28,14 +21,22 @@ The Sahel Strategic Observatory is designed as a modular platform, integrating t
   - How AES withdrawal has affected project implementation
   - How global funding cuts have influenced programming
 
+### 2. 🔍 Strategic Context & Forecasting Module  
+**Purpose**: To visualize and interpret regional trends using open-source and contextual data.  
+**Features**:
+- Integration of external datasets (ACLED, WorldPop, UNHCR, FEWSNET, climate models)
+- Scenario-based spatial forecasting and early warning insights
+- Thematic layers: conflict, displacement, food insecurity, climate variability
+
 ### 3. 📊 Integrated Power BI Dashboard  
 **Purpose**: To offer a unified, interactive interface for visual analysis.  
 **Dashboard Modules**:
-- **AES Impact Viewer** – Regional operational shifts post-ECOWAS exit  
-- **Funding Cut Tracker** – Visualization of budget-driven operational changes  
-- **Risk Forecasting Layer** – Spatial projections of emerging challenges  
-- **Strategic Gap Analyzer** – Highlights service gaps and “blind spots”  
+- **1) Operational Footprint Module (5W)** – Who is doing what, where, when, and for whom, with overlays of budget and partner info.
+- **2) Contextual Shocks Module (AES + Budget Cuts)** – Visualize how geopolitical and financial shifts have affected UN operations.  
+- **3) Risk Forecasting Module** – Forward-looking trends using open data (e.g., climate, displacement, conflict). Grounded in historical patterns + scenario modeling.  
+- **4) Strategic Foresight & Gaps Module** – Pulls from Modules 1–3 to flag blind spots, under-resourced areas, and strategic needs. Designed for leadership briefings and donor engagement.
 Each module contributes to a dynamic, data-informed decision-support system tailored to UN leadership and partners operating in the Sahel region.
+
 
 ## 📅 Project Timeline (2025)
 - **May**: Finalization of ToR and concept note
