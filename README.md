@@ -12,7 +12,7 @@ This repository documents the development of the Sahel Strategic Observatory, a 
 
 The Sahel Strategic Observatory is designed as a modular platform, integrating three core components that work together to provide foresight, track operations, and support strategic decision-making.
 
-### 1. 🗺️ Operational Mapping (5W)   
+### 1. 🗺️ UN Operation Mapping (5W)   
 **Purpose**: To provide timeseries mapping of UN agency presence and activities across the Sahel.  
 **Features**:
 - Tracks Who is doing What, Where, When, and for Whom (5W) under UNISS
@@ -21,7 +21,7 @@ The Sahel Strategic Observatory is designed as a modular platform, integrating t
   - How AES withdrawal has affected project implementation
   - How global funding cuts have influenced programming
 
-### 2. 🔍 Strategic Context & Forecasting   
+### 2. 🔍 Strategic Context & Forecasting
 **Purpose**: To visualize and interpret regional trends using open-source and contextual data.  
 **Features**:
 - Integration of external datasets (ACLED, WorldPop, UNHCR, FEWSNET, climate models)
