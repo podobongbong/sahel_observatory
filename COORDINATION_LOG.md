@@ -42,7 +42,6 @@ This document summarizes key coordination steps and engagements undertaken as pa
 
 - **OSCDS (Lead Coordination)**  
 - **UN System Partners** – UNDP, IOM, UNODC, UNOWAS, ECA, UNDCO  
-- **Support from Seoul** – Informal coordination initiated with UNDP Seoul Policy Centre (USPC) on IATI API
 
 ---
 
