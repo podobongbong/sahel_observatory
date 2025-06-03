@@ -44,15 +44,6 @@ This document summarizes key coordination steps and engagements undertaken as pa
 - **UN System Partners** – UNDP, IOM, UNODC, UNOWAS, ECA, UNDCO  
 
 ---
-
-## 🧭 Next Steps (as of June 2025)
-- Align with IATI efforts.
-- Present internal mockup for buy-in (During June 11 UISS Interpillar meeting)
-- Launch 5W questionnaire (June)
-- Convene technical working group for indicator selection and dashboard co-design.
-- Initiate open-data source mapping
-
----
 ## 🔍 Principles Guiding Coordination
 
 - **Voluntary Collaboration**: All AFP engagements are based on mutual interest and non-obligatory participation.
@@ -61,7 +52,15 @@ This document summarizes key coordination steps and engagements undertaken as pa
 - **Respect for Mandates**: Data roles and technical responsibilities of other UN bodies are acknowledged and respected.
 
 ---
-## 🔄 Next Coordination Steps
+
+## 🧭 Next Steps (as of June 2025)
+- Align with IATI efforts.
+- Present internal mockup for buy-in (During June 11 UISS Interpillar meeting)
+- Launch 5W questionnaire (June)
+- Convene technical working group for indicator selection and dashboard co-design.
+- Initiate open-data source mapping
+
+
 
 
 ---
