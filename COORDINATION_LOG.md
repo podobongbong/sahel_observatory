@@ -67,4 +67,4 @@ This document summarizes key coordination steps and engagements undertaken as pa
 
 
 ---
-*This document is regularly updated to reflect ongoing coordination efforts. Last updated: 03 June 2025.*
+*This repository is a personal prototype and documentation of a proof-of-concept for the Sahel Strategic Observatory. All views expressed and content shared here are informal and do not represent any official position of the United Nations or its agencies.*
