@@ -16,7 +16,7 @@ The Sahel Strategic Observatory is designed as a modular platform, integrating t
 **Purpose**: To provide timeseries mapping of UN agency presence and activities across the Sahel.  
 **Features**:
 - Tracks Who is doing What, Where, When, and for Whom (5W) under UNISS
-- Revives and upgrades the 2021 5W mapping exercise
+- Revives and upgrades the [2021 5W mapping exercise](https://app.powerbi.com/view?r=eyJrIjoiYzJiZTE2ZTAtMmYwNC00NGQwLTljY2ItODk4YWQ3ODdjYzdkIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9) 
 - Includes new context-sensitive questions:
   - How AES withdrawal has affected project implementation
   - How global funding cuts have influenced programming
