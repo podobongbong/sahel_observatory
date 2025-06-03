@@ -51,7 +51,6 @@ This document summarizes key coordination steps and engagements undertaken as pa
 - Launch 5W questionnaire (June)
 - Convene technical working group for indicator selection and dashboard co-design.
 - Initiate open-data source mapping
-- Conduct interagency consultations
 
 ---
 ## 🔍 Principles Guiding Coordination
