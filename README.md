@@ -63,5 +63,5 @@ Programme Analyst, OSCDS
 📧 jiyeon.park@undp.org
 
 ---
-_This is a prototype and working documentation site, not an official UN publication._
+_This repository is a personal prototype and documentation of a proof-of-concept for the Sahel Strategic Observatory. All views expressed and content shared here are informal and do not represent any official position of the United Nations or its agencies._
 
