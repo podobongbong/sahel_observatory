@@ -55,6 +55,10 @@ Each module contributes to a dynamic, data-informed decision-support system tail
 
 This platform is a collaborative effort. While the initial prototype is based on open data and internal mapping exercises, agencies are welcome to contribute validated datasets to enhance analysis and foresight. Data sharing is voluntary and can be negotiated on a case-by-case basis.
 
+## 📝 Project History & Coordination
+
+- [Coordination Log](./COORDINATION_LOG.md): Detailed timeline of inter-agency coordination, meetings, and development milestones.
+
 ## Contact
 
 For inquiries or suggestions regarding collaboration, please contact:  
