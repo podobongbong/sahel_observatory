@@ -41,6 +41,8 @@ This document summarizes key coordination steps and engagements undertaken as pa
 - Agencies agreed to support survey design and data sharing
 - ECA offered geospatial data support and platform demo
 
+### **12 June 2025** – Exchange with UNDP Seoul Policy Centre
+
 ### **30 June 2025** – Strategic Feedback from USG Mar
 - Cautioned against over-relying on AI or biased media data—emphasized focus on development, not just crisis.
 - Questioned the strategic value of ODA tracking—relevance must be clearly defined.
