@@ -36,6 +36,18 @@ This document summarizes key coordination steps and engagements undertaken as pa
 - OSCDS team endorsed the initiative and technical ownership of the Observatory dashboard.
 - Coordination initiated with UNDP Seoul Policy Centre (USPC) regarding potential IATI integration (03 June 2025).
 
+### **11 June 2025** – UNISS Cross-Pillar Meeting
+- OSCDS presented the Observatory to UNISS Agencies
+- Agencies agreed to support survey design and data sharing
+- ECA offered geospatial data support and platform demo
+
+### **30 June 2025** – Strategic Feedback from USG Mar
+- Cautioned against over-relying on AI or biased media data—emphasized focus on development, not just crisis.
+- Questioned the strategic value of ODA tracking—relevance must be clearly defined.
+- Stressed the need for contextual understanding when interpreting data, especially for predictive analytics.
+- Highlighted importance of having technically skilled members in the Working Group.
+- Despite caution, agreed to move forward with a basic prototype to demonstrate practical value.
+
 ---
 
 ## 🤝 Coordination Actors Engaged
@@ -53,10 +65,9 @@ This document summarizes key coordination steps and engagements undertaken as pa
 
 ---
 
-## 🧭 Next Steps (as of June 2025)
+## 🧭 Next Steps (as of July 2025)
 - Align with IATI efforts.
-- Present internal mockup for buy-in (During June 11 UISS Interpillar meeting)
-- Launch 5W questionnaire (June)
+- Launch 5W questionnaire (July)
 - Convene technical working group for indicator selection and dashboard co-design.
 - Initiate open-data source mapping
 
